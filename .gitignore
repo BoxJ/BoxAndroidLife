@@ -26,3 +26,4 @@ out/
 .idea_modules/
 
 .kotlin/
+app/release/
